@@ -604,6 +604,7 @@ img {
 
 .contact__info {
   font-style: normal;
+  color: var(--white-color);
 }
 
 .contact__img {
